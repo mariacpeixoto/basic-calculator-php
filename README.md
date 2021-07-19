@@ -6,10 +6,10 @@ Basic calculator in PHP made for treining.
 
 <h3>👨‍💻 Used Technology</h3>
 
+- [PHP](https://www.hostinger.com.br/tutoriais/o-que-e-php-guia-basico)
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [PHP](https://www.hostinger.com.br/tutoriais/o-que-e-php-guia-basico)
 
 
 <!--License session-->
